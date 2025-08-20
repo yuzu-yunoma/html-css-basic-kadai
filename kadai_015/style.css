@@ -12,7 +12,7 @@ body {
   color: rgb(255, 192, 203);
 }
 h1 {
-  font-size: 2em;
+  font-size: 2rem;
 }
 .google-fonts {
   font-family: "Noto Sans JP", sans-serif;
@@ -25,4 +25,5 @@ h1 {
 }
 #basic p{
   font-weight: bold;
+
 }
